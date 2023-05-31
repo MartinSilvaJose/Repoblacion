@@ -1,6 +1,6 @@
 # Repoblación
 ## Profesor: Andrés Rubio del Río
-## Alumno: 
+## Alumno: José Miguel Martín Silva
 
 La tarea va a consistir en simular la repoblación de un bosque de unas determinadas dimensiones.
 
