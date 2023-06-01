@@ -5,8 +5,14 @@ public class Arbol {
 	private Especie especie;
 	
 	public Arbol(Posicion p, Especie e) {
-		setEspecie(e);
 		setPosicion(p);
+		setEspecie(e);
+	}
+	
+	public Arbol(Arbol a) {
+		setPosicion(a.getPosicion());
+		setEspecie(a.getEspecie());
+
 	}
 	
 	public Posicion getPosicion() {
